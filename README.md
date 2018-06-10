@@ -30,12 +30,13 @@ To use this code, please do:
 If installed correctly, the GUI should look like this:
 <p align="center"><img src="doc/gui1.png" align="center" width=450 height=auto/></p>
 
-You can add some foreground and background seeds in image, and then click `Segment Image`. After a few seconds,
+You can add some foreground and background seeds in image, and then click ``Segment Image``. After a few seconds,
 the result should look like this:
-<p align="center"><img src="doc/segment_cues.jpg" align="center" width=450 height=auto/></p>
+<p align="center"><img src="doc/segment_cues.jpg" align="center" width=300 height=450/></p>
 
 Each color's label is presented as follow:
+
 ![label](doc/label.png)
 
-For more details about this algorithm, please see in [paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Feng_Interactive_Segmentation_on_CVPR_2016_paper.pdf) or [code](https://github.com/ZVsion/rgbd_image_segmentation/blob/master/GraphMaker.py).
+For more details about this algorithm, please see in [paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Feng_Interactive_Segmentation_on_CVPR_2016_paper.pdf) and [code](https://github.com/ZVsion/rgbd_image_segmentation/blob/master/GraphMaker.py).
 
