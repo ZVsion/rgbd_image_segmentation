@@ -28,11 +28,11 @@ To use this code, please do:
     ```
 
 If installed correctly, the GUI should look like this:
-<p align="center"><img src="doc/gui1.png" align="center" width=450 height=450/></p>
+<p align="center"><img src="doc/gui1.png" align="center" width=450 height=350/></p>
 
 You can add some foreground and background seeds in image, and then click ``Segment Image``. After a few seconds,
 the result should look like this:
-<p align="center"><img src="doc/segment_cues.jpg" align="center" width=400 height=450/></p>
+<p align="center"><img src="doc/segment_cues.jpg" align="center" width=350 height=450/></p>
 
 Each color's label is presented as follow:
 
