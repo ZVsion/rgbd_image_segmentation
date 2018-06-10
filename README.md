@@ -18,8 +18,8 @@ To use this code, please do:
 
 0. Clone the repo:
     ```Shell
-    git clone https://github.com/jfzhang95/Chinese_Poem_Writer
-    cd Chinese_Poem_Writer
+    git clone https://github.com/ZVsion/rgbd_image_segmentation
+    cd rgbd_image_segmentation
     ```
 
 1. To try the demo, please run:
