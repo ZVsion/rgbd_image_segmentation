@@ -41,4 +41,5 @@ Each color's label is presented as follow:
 
 For more details about this algorithm, please see in [paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Feng_Interactive_Segmentation_on_CVPR_2016_paper.pdf) and [code](https://github.com/ZVsion/rgbd_image_segmentation/blob/master/GraphMaker.py).
 
+Noted that we do not implement Grabcut postprocessing, therefore, our results are not as good as original paper.
 
