@@ -1,5 +1,5 @@
 # Interactive-Segmentation-on-RGBD-Images-via-Cue-Selection
-Python implementation of paper "Interactive Segmentation on RGBD Images via Cue Selection".
+Python implementation of paper "Interactive Segmentation on RGBD Images via Cue Selection", CVPR 2016.
 
 ![top](doc/top.png)
 
